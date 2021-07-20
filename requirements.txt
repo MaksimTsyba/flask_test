@@ -1,0 +1,7 @@
+flask
+uwsgi
+pika
+Flask-Migrate
+flask-sqlalchemy
+psycopg2
+Flask-Rabmq
